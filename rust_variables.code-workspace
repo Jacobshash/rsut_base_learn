@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "rust_variables"
+		},
+		{
+			"path": "rust_const_static"
+		},
+		{
+			"path": "rust_simple_type"
+		},
+		{
+			"path": "rust_demo_2"
+		},
+		{
+			"path": "rust_demo_2_lib"
+		},
+		{
+			"path": "rust_demo1"
+		}
+	],
+	"settings": {}
+}
